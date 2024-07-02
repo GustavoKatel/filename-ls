@@ -4,6 +4,8 @@ This is plugin simulate a language server to provide codelens for filenames in t
 
 It uses `treesitter` to parse the document looking for filenames and then provides codelens for them, which can be used to open the file in the editor.
 
+[![asciicast](https://asciinema.org/a/666439.svg)](https://asciinema.org/a/666439)
+
 ## Requirements
 
 - Neovim 0.10 or later
